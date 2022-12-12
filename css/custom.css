@@ -1,0 +1,115 @@
+
+hr.hr-style {
+    border: 0;
+    height: 2px;
+    background: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+	margin-bottom: 28px
+}
+
+.media h6{
+    font-size: 14px;
+    font-weight: 400;
+    color: #777;
+    line-height: 20px;
+	padding: 0 20px
+}
+
+.instock{
+    font-weight: bold;
+    font-size: 13px;
+    color: rgb(51, 153, 101);
+	margin-left: 5px;
+}
+
+.accor-code{
+    font-weight: bold;
+    color: #8C00FF;
+	margin-left: 5px;
+}
+
+.chek-circle{
+    margin-right: 8px;
+    color: #fff;
+    background: #19a340;
+    font-size: 14px;
+    width: 18px;
+    height: 18px;
+    line-height: 18px;
+    border-radius: 50%;
+}
+	
+@media (max-width: 480px){
+    .breadcrumb-section {
+        padding: 60px 0!important
+    }}	
+	
+
+.cookie-text{
+	color:#f39910;
+	font-weight: 600;
+}
+
+.cookie-text:hover{
+	color:#7a7a7a;
+}
+
+.sip-border {
+    border: 1px solid #dee2e6!important;
+}
+
+.custom-control-input{
+	margin-right: 4px;
+}
+
+/* ---- arama-kutusu ---*/
+
+#mybutton {
+   	top: 30%;
+  	position: fixed;
+  	bottom: -4px;
+  	left: -285px;
+	z-index: 9;
+}
+
+.feedback {
+	font-size: 14px;
+    letter-spacing: 0.05em;  	
+	text-transform: none!important;
+	color: white;
+	padding: 10px 20px!important;
+    -webkit-box-shadow: 0 0 5px 0 rgba(0, 0, 0, 1);
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 1);
+	-webkit-transform: translate(50%, -50%) rotate(-90deg);
+    transform: translate(50%, -50%) rotate(-90deg);
+}
+
+@media (max-width: 768px){
+#mybutton {
+   	top: 30%;
+  	position: fixed;
+  	bottom: -4px;
+  	left: -225px;
+	z-index: 9;
+}
+.feedback {
+	opacity: 80%;
+	font-size: 12px;
+    letter-spacing: 0.05em;  	
+	text-transform: none!important;
+	color: #222;
+	padding: 0px 5px!important;
+    -webkit-box-shadow: 0 0 5px 0 rgba(0, 0, 0, 1);
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 1);
+	-webkit-transform: translate(50%, -50%) rotate(-90deg);
+    transform: translate(50%, -50%) rotate(-90deg);
+}}
+
+@media (max-width: 480px){
+.feedback {
+	display: none
+}}
+
+
+
+
+
