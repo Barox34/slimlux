@@ -1766,7 +1766,7 @@ button.btn.btn-solid:active, button.btn.btn-outline:active {
     margin-right: 8px
 }
 .banner-timer {
-    background-image: url("../image/content_2021-07-06_11-01-33-1920x413.07692307692.jpg");
+    background-image: url("../image/bayilik.jpg");
     background-size: cover;
     margin-left: 20px;
     margin-right: 20px
@@ -4800,7 +4800,7 @@ button.btn.btn-solid:active, button.btn.btn-outline:active {
     margin-bottom: 30px
 }
 .game-banner .banner-timer {
-    background-image: url(../image/content_2021-07-06_11-01-33-1920x413.07692307692.jpg);
+    background-image: url(../image/bayilik.jpg);
     background-blend-mode: overlay;
     background-color: rgba(0, 0, 0, 0.4);
     margin-left: 0;
