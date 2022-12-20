@@ -14820,7 +14820,7 @@ header.stickycls {
 }
 .theme-card .slick-prev:before, .theme-card .slick-next:before {
     font: normal normal normal 30px/1 FontAwesome;
-    color: #222;
+    color: #f39910;
     opacity: 0.6
 }
 .theme-card .slick-next {
